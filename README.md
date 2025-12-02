@@ -1,16 +1,27 @@
-## Hi there 👋
+***
+## 👋 Hola, soy Federico Gil (Fico)
 
-<!--
-**Ficoo11/Ficoo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programador con un fuerte deseo de aprender y expandir mi conocimiento en el desarrollo de software. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formación
+
+* **Tecnología en Análisis y Desarrollo de Sistemas de Información** (ADSI) - **SENA**.
+* Media Técnica en Diseño de Software.
+
+### 💻 Experiencia en Proyectos
+
+He participado en el desarrollo de:
+
+* **Cuidito:** Creador y Programador.
+* **Hinc:** Programador.
+
+### 🔗 Conexión
+
+* Mi objetivo es aplicar mis habilidades y colaborar en proyectos desafiantes.
+* [**Mi Perfil de LinkedIn**](https://www.linkedin.com/in/federico-gil-565998336/)
+* [**Mi Correo Electrónico**](mailto:fede.cruz09@gmail.com)
+
+***
+
