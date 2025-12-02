@@ -7,8 +7,8 @@ Programador con un fuerte deseo de aprender y expandir mi conocimiento en el des
 
 ### 🎓 Formación
 
-* **Tecnología en Análisis y Desarrollo de Sistemas de Información** (ADSI) - **SENA**.
-* Media Técnica en Diseño de Software.
+* **Tecnología en Análisis y Desarrollo de Software** (ADSO) - **SENA**.
+* **Media Técnica en Diseño de Software - SENA**.
 
 ### 💻 Experiencia en Proyectos
 
