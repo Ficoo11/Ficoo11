@@ -1,5 +1,5 @@
 ***
-## 👋 Hola, soy Federico Gil (Fico)
+## Hola, soy Federico Gil (Fico) 🤵🏽
 
 Programador con un fuerte deseo de aprender y expandir mi conocimiento en el desarrollo de software. 🚀
 
